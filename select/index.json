@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fantasyが始まる",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-19T13:39:40.579683Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fantasyが始まる",
+      "artist": "道重さゆみ、モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_Fantasyが始まる_道重さゆみ、モーニング娘。.txt"
+    }
+  ]
+}
